@@ -1,3 +1,8 @@
+<img src="banner.png" alt="banner de perfil" width="100%">
+
+
+
+
 # 👋 ¡Hola! Soy Matías Anderegg
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
