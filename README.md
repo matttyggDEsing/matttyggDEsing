@@ -23,7 +23,7 @@ Aquí vas a encontrar desde pequeños ejercicios hasta sistemas más completos r
 Si querés ponerte en contacto conmigo, podés hacerlo por:
 
 - 📧 **Email:** [matiasanderegg2@gmail.com](mailto:matiasanderegg2@gmail.com)  
-- 📸 **Instagram:** [@matyanderegg](https://instagram.com/matyanderegg)
+- 📸 **Instagram:** [matyanderegg](https://instagram.com/matyanderegg)
 
 ---
 
