@@ -1,40 +1,49 @@
-# 👨‍💻 Matías Anderegg
+# 👋 ¡Hola! Soy Matías Anderegg
 
-¡Hola! Soy Matías, un estudiante de programación de 19 años que está dando sus primeros pasos en el mundo del desarrollo de software.  
-Este espacio en GitHub lo uso para subir y compartir los proyectos que voy realizando en mis materias, prácticas y desafíos personales.
-
-Mi enfoque principal está en aprender, experimentar y crecer como programador.  
-Aquí vas a encontrar desde pequeños ejercicios hasta sistemas más completos relacionados con lo que estudio.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Estudiante](https://img.shields.io/badge/Estudiante-Programación-blue?style=for-the-badge)
 
 ---
 
-## 🚀 ¿Qué podés encontrar en mis repos?
+## ✨ Sobre mí
 
-- Proyectos de consola con C#
-- Aplicaciones con interfaz de texto usando Spectre.Console y Terminal.Gui
-- Bases de datos SQLite integradas a sistemas CRUD
-- Reportes, facturación, y más...
-- ¡Y muchas cosas más a medida que sigo aprendiendo!
+Soy **Matías Anderegg**, un estudiante de programación de **19 años** con muchas ganas de aprender, experimentar y crecer en el mundo del desarrollo de software.  
+Este perfil de GitHub es donde subo mis **proyectos relacionados con las materias que curso** y también ideas personales que me ayudan a mejorar mis habilidades.
+
+🛠️ Me gusta trabajar en proyectos prácticos como:
+- Aplicaciones de consola con **C# y .NET**
+- Sistemas con **base de datos SQLite**
+- Interfaces en terminal usando **Spectre.Console** y **Terminal.Gui**
+- Reportes, CRUD, facturación y más...
 
 ---
 
 ## 📫 Contacto
 
-Si querés ponerte en contacto conmigo, podés hacerlo por:
-
-- 📧 **Email:** [matiasanderegg2@gmail.com](mailto:matiasanderegg2@gmail.com)  
-- 📸 **Instagram:** [matyanderegg](https://instagram.com/matyanderegg)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasanderegg2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matyanderegg)
 
 ---
 
-## 🌱 Actualmente aprendiendo...
+## 🌱 Actualmente estoy aprendiendo
 
-- C# y .NET
-- SQL y gestión de bases de datos
-- Desarrollo de aplicaciones con interfaz de consola
-- Fundamentos de programación y estructuras de datos
+- Fundamentos sólidos de programación
+- Desarrollo con **C# y .NET**
+- Manejo de bases de datos con **SQLite**
+- Arquitectura de software y organización de proyectos
+- Aplicaciones de consola con interfaces visuales
 
 ---
 
-Gracias por pasarte por mi perfil 🤝  
+## 📊 GitHub Stats
+
+![Matías's GitHub stats](https://github-readme-stats.vercel.app/api?username=matttyggDEsing&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matttyggDEsing&layout=compact&theme=radical)
+
+---
+
+Gracias por visitar mi perfil 🤝  
 ¡Se vienen muchos proyectos más!
+
