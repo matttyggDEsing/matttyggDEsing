@@ -1,5 +1,4 @@
-<img src="banner.png" alt="banner de perfil" width="60%">
-
+img src="banner.png" alt="banner de perfil" width="80%" height="200px">
 
 
 
