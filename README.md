@@ -20,7 +20,7 @@
 
 ## ✨ Sobre mí
 
-🎓 Soy **Matías Anderegg**, tengo **19 años** y estoy formándome como desarrollador.  
+🎓 Soy **Matías Anderegg**, tengo **20 años** y estoy formándome como desarrollador.  
 💡 Este perfil es mi bitácora personal de crecimiento: proyectos reales, ideas propias y todo lo que me ayuda a mejorar como programador.
 
 🔧 Me enfoco en:
